@@ -1,4 +1,3 @@
-```batch
 @echo off
 setlocal EnableDelayedExpansion
 
@@ -323,5 +322,3 @@ echo  %TXT_CHECK%
 echo.
 pause
 exit
-
-```
