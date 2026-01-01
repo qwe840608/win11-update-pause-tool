@@ -44,4 +44,4 @@
 
 ## 📄 授權 (License)
 
-本專案採用 MIT License 授權 - 詳情請參閱 (LICENES) 文件。
+本專案採用 MIT License 授權 - 詳情請參閱 [LICENSE](LICENES) 文件。
