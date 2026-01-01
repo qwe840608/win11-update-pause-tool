@@ -17,7 +17,7 @@
 
 ## 🚀 使用方式
 
-1.  從 [Releases](../../releases) 頁面下載 `win11-update-pause-tool.bat` 或複製本專案代碼。
+1.  從 [Releases](../../releases) 頁面下載 `win11-update-pause-tool.bat` 或複製[本專案代碼](win11-update-pause-tool.bat)。
 
 ```batch
 @echo off
