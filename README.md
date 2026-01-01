@@ -371,4 +371,4 @@ It uses embedded **PowerShell** commands to calculate the correct ISO 8601 UTC t
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENES](LICENES) file for details.
+This project is licensed under the MIT License - see the [LICENES](LICENSE) file for details.
