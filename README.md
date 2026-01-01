@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/Language-Batchfile-green)](https://en.wikipedia.org/wiki/Batch_file)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-[**中文說明 (Traditional Chinese)**](README_TW.md)
+[**中文說明**](README_TW.md)
 
 A lightweight, stable batch script to pause Windows Updates for extended periods (months or years), bypassing the default 5-week limit set by Microsoft.
 
@@ -17,7 +17,7 @@ A lightweight, stable batch script to pause Windows Updates for extended periods
 
 ## 🚀 Usage
 
-1.  **Download** the `PauseUpdate.bat` file from the [Releases](../../releases) page or clone this repository.
+1.  **Download** the `win11-update-pause-tool.bat` file from the [Releases](../../releases) page or clone this repository.
 2.  **Right-click** the file and select **"Run as Administrator"** (Required to modify registry).
 3.  Choose an option from the menu:
     *   `[1]` Pause for 3 Months
@@ -44,4 +44,4 @@ It uses embedded **PowerShell** commands to calculate the correct ISO 8601 UTC t
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENES file for details.
+This project is licensed under the MIT License - see the [](LICENES) file for details.
