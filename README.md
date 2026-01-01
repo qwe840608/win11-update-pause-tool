@@ -17,7 +17,7 @@ A lightweight, stable batch script to pause Windows Updates for extended periods
 
 ## 🚀 Usage
 
-1.  **Download** the `win11-update-pause-tool.bat` file from the [Releases](../../releases) page or clone this repository.
+1.  **Download** the `win11-update-pause-tool.bat` file from the [Releases](../../releases) page or clone this [repository](win11-update-pause-tool.bat).
 ```batch
 @echo off
 setlocal EnableDelayedExpansion
