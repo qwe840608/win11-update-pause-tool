@@ -20,6 +20,7 @@
 1.  從 [Releases](../../releases) 頁面下載 `win11-update-pause-tool.bat` 或複製[本專案代碼](win11-update-pause-tool.bat)。
 
 ```batch
+chcp 65001 >nul
 @echo off
 setlocal EnableDelayedExpansion
 
