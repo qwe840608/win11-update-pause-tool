@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/Language-Batchfile-green)](https://en.wikipedia.org/wiki/Batch_file)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-[**English Documentation**](README.md)
+[**英文說明**](README.md)
 
 這是一個輕量且穩定的批次檔腳本，可用於長時間暫停 Windows Update（數月或數年），突破微軟預設的 5 週暫停限制。
 
@@ -17,7 +17,7 @@
 
 ## 🚀 使用方式
 
-1.  從 [Releases](../../releases) 頁面下載 `PauseUpdate.bat` 或複製本專案代碼。
+1.  從 [Releases](../../releases) 頁面下載 `win11-update-pause-tool.bat` 或複製本專案代碼。
 2.  對檔案按滑鼠右鍵，選擇 **「以系統管理員身分執行」**（修改登錄檔需要此權限）。
 3.  從選單中選擇一個選項：
     *   `[1]` 暫停 3 個月
